@@ -26,7 +26,7 @@ import logging
 task_logger = logging.getLogger("airflow.task")
 
 YOUR_GITHUB_REPO_NAME = Variable.get(
-    "airflow", "airflow"
+    "my_github_repo", "vatche-t/airflow"
 )  # Replace with your repository name
 YOUR_COMMIT_MESSAGE = "Where is the ISS right now?"  # Replace with your commit message
 
