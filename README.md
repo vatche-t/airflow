@@ -52,3 +52,5 @@ The Astronomer CLI is maintained with love by the Astronomer team. To report a b
 Last updated on: 2024-12-03
 
 Last updated on: 2024-12-08
+
+Last updated on: 2024-12-11
